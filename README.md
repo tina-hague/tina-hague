@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @derp00monsta AKA Tina :D
-- 👀 I’m interested in neuroscience & computer science
 - 🌱 I’m currently learning about neuroscience, circuits & Java
 - 📫 You can reach me through my Discord -> derp.nightmare
 - 🤩 Pronouns: She/her
