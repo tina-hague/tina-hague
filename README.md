@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @derp00monsta AKA Tina :D
-- 🌱 I’m currently learning about neuroscience, circuits & Java
+- 🌱 I’m currently learning about neuroscience, circuits & Java 🍵
 - 📫 You can reach me through my Discord -> derp.nightmare
-- 🤩 Pronouns: She/her
+- 🤩 Pronouns -> She/her
 - 😱 Fun fact -> this is the funnest fact you'll ever see!
 
 <!---
