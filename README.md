@@ -14,6 +14,8 @@ I am a robotics nerd that currently codes for F.I.R.S.T robotics competetion & p
   </a>
 </div>
 
+![](https://komarev.com/ghpvc/?username=derp00monsta&color=2300FF&style=plastic)
+
 <!---
 derp00monsta/derp00monsta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
