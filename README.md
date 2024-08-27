@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Goldman&size=26&pause=1000&color=A200F7&background=64FF6300&center=true&random=false&width=700&lines=%F0%9F%91%8B+Hello+%3AD;My+name+is+Tina+Hague+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%F0%9F%A9%B6;I'm+learning++Java+%26+Python+%F0%9F%92%BB;I+%E2%80%AA%E2%80%AA%E2%9D%A4%EF%B8%8E%E2%80%AC+cats%2C+rock+music+%26+neuroscience!!!++(%E2%9D%A4%EF%B8%8F+%CF%89+%E2%9D%A4%EF%B8%8F);%E2%98%85+101010+%E2%98%85;%F0%9F%9A%80%F0%9F%9A%80+Godspeed+%3C3)](https://git.io/typing-svg)
 
 ### About Me 🤖😎
-I am a robotics nerd that currently codes for F.I.R.S.T robotics competetion & previousily was a part of F.I.R.S.T Lego League for 3 years. I strive to learn computer science to better understand neuroscience! I am currently learning about digital logic, neuroscience, Java, JS & Python. 
+I am a robotics nerd that currently codes for F.I.R.S.T robotics competetion & previousily was a part of F.I.R.S.T Lego League for 3 years. I hope to use my knowledge of computer science to better understand neuroscience! I am currently learning about digital logic, neuroscience, drone robotics, Java & JS. 
 
  ### LETS GO PATRIBOTS!!! 💚💛💚💛💚💛
 
