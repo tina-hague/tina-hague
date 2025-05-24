@@ -4,7 +4,7 @@ I am a robotics nerd that currently codes for F.I.R.S.T robotics competetion & p
  ### LETS GO PATRIBOTS!!! 💚💛💚💛💚💛
 
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=derp00monsta&theme=catppuccin-mocha&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&fire=BB18EB&background=40%2C141234%2C000000&border=8C00EB&dates=BFEEFF&stroke=0096EB&sideNums=A000FF&sideLabels=969FEB&currStreakNum=D80FFF&currStreakLabel=D80FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tina-hague&theme=dark-smoky&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&background=50%2C2F0059%2C010005&ring=97FDFF&fire=BF00FF&currStreakNum=D099FF&sideNums=D099FF&currStreakLabel=A9E4EA&dates=A897FF&stroke=3600EB&sideLabels=A9E4EA)](https://git.io/streak-stats)
  
 <div id="badges">
   <a href="https://discordapp.com/users/877387995924283492/">
