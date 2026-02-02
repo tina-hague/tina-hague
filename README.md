@@ -1,5 +1,5 @@
 ## About Me 🤖
-I am a programmer for FIRST Robotics team 4738 - The Patribots. I am interested in compueter and neuroengineering! I am currently learning about digital electronics, neuroscience, drone operations, robotics, Java, JS, CSS, & HTML. 
+Hello! My name is Tina and I am a programmer for FIRST Robotics team 4738 - The Patribots and I am interested in studying compueter and neuroengineering! I am currently learning about digital electronics, neuroscience, drone operations, robotics, Java, JS, CSS, & HTML. 
 ---
 
 IT Java Certification
