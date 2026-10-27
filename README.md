@@ -1,5 +1,5 @@
 ## About Me 🤖
-Hello! My name is Tina and I am a programmer for FIRST Robotics team 4738 - The Patribots and I am interested in studying compueter and neuroengineering! I am currently learning about digital electronics, neuroscience, drone operations, robotics, Java, CSS, & HTML. 
+Hello! My name is Tina and I am a programmer for FIRST Robotics team 4738 - The Patribots and I am interested in studying computer and neuroengineering! I am currently learning about digital electronics, neuroscience, and robotics. I am using Java, CSS, & HTML on my current projects. 
 
 ### Contact Me
 <a href=mailto:tina.hague42@gmail.com target="_blank"><img src="https://img.shields.io/badge/tina.hague42@gmail.com-EA4335?logo=mail&logoColor=white" alt="LinkedIn Badge"/></a>
