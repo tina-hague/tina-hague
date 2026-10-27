@@ -10,7 +10,7 @@ Hello! My name is Tina and I am a programmer for FIRST Robotics team 4738 - The 
 ### Credentials
 | Java | Python | HTML & CSS | TRUST Certificate | Part 107 Certificate |
 | --- | --- | --- | --- | --- |
-| <img width="150" height="150" alt="it-specialist-java" src="https://github.com/user-attachments/assets/6fc32ac2-4498-4809-8e84-d6db903f4f78" /> | <img width="150" height="150" alt="it-specialist-python" src="https://github.com/user-attachments/assets/60e212cf-f117-48ae-9970-394e474ece5c" /> | <img width="150" height="150" alt="it-specialist-html-and-css" src="https://github.com/user-attachments/assets/06f26ba4-d32f-4189-b22a-7efd49396550" /> | <img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/dc314479-49cc-47a5-bf06-6cfb6df601f2" /> | <img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/33123d2f-0662-44a8-a079-1685c20630c0" /> |
+| <img width="150px" height="150px" alt="it-specialist-java" src="https://github.com/user-attachments/assets/6fc32ac2-4498-4809-8e84-d6db903f4f78" /> | <img width="150px" height="150px" alt="it-specialist-python" src="https://github.com/user-attachments/assets/60e212cf-f117-48ae-9970-394e474ece5c" /> | <img width="150px" height="150px" alt="it-specialist-html-and-css" src="https://github.com/user-attachments/assets/06f26ba4-d32f-4189-b22a-7efd49396550" /> | <img width="150px" height="auto" alt="image" src="https://github.com/user-attachments/assets/dc314479-49cc-47a5-bf06-6cfb6df601f2" /> | <img width="150px" height="auto" alt="image" src="https://github.com/user-attachments/assets/33123d2f-0662-44a8-a079-1685c20630c0" /> |
 
 ### Tools I've Used
 | Software | Hardware |
